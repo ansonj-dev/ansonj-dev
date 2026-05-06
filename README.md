@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:1a6b4a&height=200&section=header&text=Anson+Joseph&fontSize=65&fontColor=39d98a&fontAlignY=38&desc=Climate%20AI%20%7C%20Web3%20%7C%20Civic%20Tech%20%7C%20Kottayam%2C%20Kerala&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=39D98A&center=true&vCenter=true&width=700&lines=🛰️+NASA+Space+Apps+Challenge+Winner+(QUASAR);🌍+Climate+AI+%7C+Multi-Hazard+Prediction+Platform;⛓️+Web3+Builder+%7C+Base+Chain+%7C+DeFi;🌱+Green+Finance+%7C+Carbon+Markets+%7C+AgriTech;🎓+M.S.+Data+Analytics+%7C+Kerala%2C+India" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=39D98A&center=true&vCenter=true&width=700&lines=NASA+Space+Apps+Challenge+Winner;Climate+AI+%7C+Multi-Hazard+Prediction;Web3+Builder+%7C+Base+Chain+%7C+DeFi;Green+Finance+%7C+Carbon+Markets;M.S.+Data+Analytics+%7C+Kerala%2C+India" alt="Typing SVG" />
 
 <br/>
 
