@@ -93,11 +93,6 @@ class AnsonJoseph:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansonj-dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d98a&icon_color=39d98a&text_color=c9d1d9&border_color=1a6b4a"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonj-dev&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=39d98a&text_color=c9d1d9&border_color=1a6b4a"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansonj-dev&theme=dark&background=0d1117&border=1a6b4a&stroke=1a6b4a&ring=39d98a&fire=39d98a&currStreakNum=39d98a&sideNums=c9d1d9&currStreakLabel=39d98a&sideLabels=c9d1d9&dates=888888" />
 </div>
 
