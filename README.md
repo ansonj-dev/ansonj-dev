@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:1a6b4a&height=200&section=header&text=Anson+Joseph&fontSize=65&fontColor=39d98a&fontAlignY=38&desc=Climate%20AI%20%7C%20Web3%20%7C%20Civic%20Tech%20%7C%20Kottayam%2C%20Kerala&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:0077b6&height=200&section=header&text=Anson+Joseph&fontSize=65&fontColor=00d2ff&fontAlignY=38&desc=Climate%20AI%20%7C%20Web3%20%7C%20Civic%20Tech%20%7C%20Kottayam%2C%20Kerala&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=39D98A&center=true&vCenter=true&width=700&lines=NASA+Space+Apps+Challenge+Winner;Climate+AI+%7C+Multi-Hazard+Prediction;Web3+Builder+%7C+Base+Chain+%7C+DeFi;Green+Finance+%7C+Carbon+Markets;M.S.+Data+Analytics+%7C+Kerala%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=NASA+Space+Apps+Challenge+Winner;Climate+AI+%7C+Multi-Hazard+Prediction;Web3+Builder+%7C+Base+Chain+%7C+DeFi;Green+Finance+%7C+Carbon+Markets;M.S.+Data+Analytics+%7C+Kerala%2C+India" alt="Typing SVG" />
 
 <br/>
 
@@ -13,8 +13,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ansonj-dev&color=39d98a&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/ansonj-dev?color=39d98a&style=flat-square&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=ansonj-dev&color=00d2ff&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/ansonj-dev?color=00d2ff&style=flat-square&logo=github)
 
 </div>
 
@@ -93,7 +93,7 @@ class AnsonJoseph:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansonj-dev&theme=dark&background=0d1117&border=1a6b4a&stroke=1a6b4a&ring=39d98a&fire=39d98a&currStreakNum=39d98a&sideNums=c9d1d9&currStreakLabel=39d98a&sideLabels=c9d1d9&dates=888888" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansonj-dev&theme=dark&background=0d1117&border=0077b6&stroke=0077b6&ring=00d2ff&fire=00d2ff&currStreakNum=00d2ff&sideNums=c9d1d9&currStreakLabel=00d2ff&sideLabels=c9d1d9&dates=888888" />
 </div>
 
 ---
@@ -146,7 +146,7 @@ class AnsonJoseph:
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansonj-dev&bg_color=0d1117&color=39d98a&line=1a6b4a&point=39d98a&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansonj-dev&bg_color=0d1117&color=00d2ff&line=0077b6&point=00d2ff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -174,6 +174,6 @@ class AnsonJoseph:
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anson-joseph-7861a8305/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b4a,50:0f3460,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:0f3460,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
