@@ -1,69 +1,103 @@
 <div align="center">
 
-# Anson Joseph
-### Data Analytics Graduate Student · AI/ML · Climate & Sustainability Technology · Web3
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,45:2563EB,100:7C3AED&height=190&section=header&text=Anson%20Joseph&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%20%7C%20Climate%20%26%20Sustainability&descAlignY=60&descSize=16" width="100%" alt="Colorful animated-style profile banner" />
 
-Building practical software at the intersection of data, environmental intelligence, civic technology, and AI.
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Turning+data+into+useful+insights;Building+AI-powered+experiments;Exploring+climate+%26+sustainability+tech;Learning%2C+building%2C+and+iterating" alt="Typing animation" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anson-joseph-7861a8305/)
-[![X](https://img.shields.io/badge/X-Profile-000000?logo=x&logoColor=white)](https://x.com/AnsonJo96106714)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_ansonjoseph)
+<p>
+  <a href="https://www.linkedin.com/in/anson-joseph-7861a8305/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/AnsonJo96106714"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://github.com/ansonj-dev"><img src="https://img.shields.io/badge/GitHub-Explore-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 </div>
 
 ---
 
-## About
+## 🌱 About Me
 
-I'm a Data Analytics postgraduate student from Kerala, India, interested in applying software, machine learning, and data-driven methods to real-world challenges. My independent projects explore climate-risk intelligence, green finance, agriculture, civic systems, and AI-powered productivity.
+I'm a postgraduate **Data Analytics** student from Kerala, India, interested in using data, software, and AI to explore practical challenges. My interests include **climate intelligence, sustainability, environmental data, civic technology, and AI-powered tools**.
 
-I enjoy taking ideas from problem definition and research through prototyping, implementation, and documentation—especially when technology can support communities or improve decision-making.
+I enjoy moving from an idea to a working prototype—researching the problem, exploring data, building, testing, and documenting what I learn.
 
-## Featured Projects
+## 🧭 What I Explore
 
-| Project | Focus | Repository |
-|---|---|---|
-| **QUASAR** | Multi-hazard climate prediction and early-warning platform using environmental data and machine learning. | [View repository](https://github.com/ansonj-dev/QUASAR) |
-| **GrYEN** | Personal finance and environmental-impact intelligence, connecting spending insights with carbon analysis and recommendations. | [View repository](https://github.com/ansonj-dev/GrYEN) |
-| **PlantFox** | AI-assisted, localized cultivation guidance and agricultural support. | [View repository](https://github.com/ansonj-dev/PlantFox) |
-| **DROUGHT** | Civic environmental reporting and oversight prototype for pollution and geographic hazards. | [View repository](https://github.com/ansonj-dev/DROUGHT) |
-| **FINSCI** | Crowdfunding prototype for sustainability and social-impact initiatives, with blockchain-based transaction transparency. | [View repository](https://github.com/ansonj-dev/Finsci) |
-| **The Written Entity** | AI-assisted meeting workflow automation for transcription, summaries, action items, follow-ups, and searchable meeting memory. | [View repository](https://github.com/ansonj-dev/THE-WRITTEN-ENTITY-MCP) |
-| **TXENT** | Agentic observability prototype combining operational signals with persistent memory and incident investigation. | [View repository](https://github.com/ansonj-dev/TXENT) |
-| **MakeTheyArrive** | Crowd-intelligence platform concept for predicting busy periods at public and service locations. | [View repository](https://github.com/ansonj-dev/maketheyarrive) |
-| **Loupe** | AI-assisted photo organization and handwritten-note digitization. | [View repository](https://github.com/ansonj-dev/Loupe) |
-| **NEON REVERIE** | Multiplayer Decentraland scene exploring cooperative, memory-themed gameplay. | [View repository](https://github.com/ansonj-dev/NEON-REVERIE) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌍 Climate & Sustainability</h3>
+      Environmental data, climate-risk analysis, carbon insights, and tools that support informed decisions.
+    </td>
+    <td width="50%">
+      <h3>🤖 AI & Data Analytics</h3>
+      Applied machine learning, data visualization, forecasting, and AI-assisted workflows.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌾 Community & Agriculture</h3>
+      Localized information systems and technology concepts for environmental and community needs.
+    </td>
+    <td width="50%">
+      <h3>🔗 Emerging Technology</h3>
+      Exploring blockchain, decentralized applications, and new ways to build transparent systems.
+    </td>
+  </tr>
+</table>
 
-*Project descriptions summarize repository goals; implementation status and available functionality may vary by project.*
+## 🛠️ Tech Stack
 
-## Areas of Interest
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,react,vue,nodejs,express,html,css,postgres,mongodb,supabase,git,github,docker,solidity&perline=9" alt="Technology icons"/>
+</p>
 
-- Climate data, environmental monitoring, and multi-hazard risk analysis
-- Sustainability analytics, green finance, and carbon markets
-- Applied machine learning and data visualization
-- Civic technology and community-centered software
-- AI agents, workflow automation, and knowledge systems
-- Web3 and blockchain applications
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-166534?style=flat-square" alt="Data analysis"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F59E0B?style=flat-square" alt="Machine learning"/>
+  <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Visualization-Analytics-7C3AED?style=flat-square" alt="Visualization"/>
+</p>
 
-## Technical Toolkit
+## 🚀 Selected Public Work
 
-**Languages:** Python, JavaScript, TypeScript, R, SQL  
-**AI & Data:** pandas, scikit-learn, time-series analysis, data visualization, FastAPI  
-**Web:** React, Vue, Node.js, Express, HTML, CSS  
-**Data & Infrastructure:** PostgreSQL, MongoDB, Supabase, Docker, GitHub Actions  
-**Web3:** Solidity, EVM tooling, Solana development concepts
+I use my repositories to document experiments, prototypes, coursework, and projects. Only **public repositories** are linked here; private projects are intentionally omitted.
 
-*Tools listed reflect technologies used or explored across projects; they do not imply production-level expertise in every item.*
+- 🌦️ **QUASAR** — climate-risk and early-warning project work.
+- 🌿 **PlantFox** — AI-assisted localized cultivation guidance.
+- 🏙️ **DROUGHT** — civic environmental reporting concept.
+- 🧠 **The Written Entity** — AI-assisted meeting workflow and knowledge tools.
+- 🎮 **NEON REVERIE** — a Decentraland scene and interactive experience.
 
-## Recognition
+> Project scope and implementation status vary. Visit each public repository for its current source, documentation, and status.
 
-- Runner-up at the local level of the NASA Space Apps Challenge 2025 for a climate-focused project.
-- Selected for further university-level incubation consideration for an environmental technology project.
+## 🏅 Highlights
 
-## Connect
+- 🛰️ Local-level runner-up, **NASA Space Apps Challenge 2025**, for a climate-focused project.
+- 🌱 An environmental technology project was shortlisted for university-level incubation consideration.
 
-I'm interested in opportunities and collaborations involving data analytics, climate and sustainability technology, AI applications, and community-focused software.
+## 📊 GitHub
 
-- [LinkedIn](https://www.linkedin.com/in/anson-joseph-7861a8305/)
-- [X](https://x.com/AnsonJo96106714)
-- [GitHub](https://github.com/ansonj-dev)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansonj-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=0D9488&icon_color=7C3AED&text_color=64748B" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonj-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=0D9488&text_color=64748B" height="165" alt="Top languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ansonj-dev&hide_border=true&background=00000000&ring=0D9488&fire=7C3AED&currStreakLabel=0D9488" alt="GitHub contribution streak"/>
+</div>
+
+## 🤝 Let's Connect
+
+I'm open to learning, collaboration, and opportunities related to **data analytics, AI applications, climate and sustainability technology, and community-focused software**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anson-joseph-7861a8305/">LinkedIn</a> ·
+  <a href="https://x.com/AnsonJo96106714">X</a> ·
+  <a href="https://github.com/ansonj-dev">GitHub</a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F766E&height=100&section=footer" width="100%" alt="Decorative footer banner"/>
+</div>
