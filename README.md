@@ -1,103 +1,179 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,45:2563EB,100:7C3AED&height=190&section=header&text=Anson%20Joseph&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20AI%20%7C%20Climate%20%26%20Sustainability&descAlignY=60&descSize=16" width="100%" alt="Colorful animated-style profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:ff4b4b,100:00e676&height=200&section=header&text=Anson+Joseph&fontSize=65&fontColor=00e676&fontAlignY=38&desc=Climate%20AI%20%7C%20Web3%20%7C%20Civic%20Tech%20%7C%20Kottayam%2C%20Kerala&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Turning+data+into+useful+insights;Building+AI-powered+experiments;Exploring+climate+%26+sustainability+tech;Learning%2C+building%2C+and+iterating" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&lines=NASA+Space+Apps+Challenge+Winner;Climate+AI+%7C+Multi-Hazard+Prediction;Web3+Builder+%7C+Base+Chain+%7C+DeFi;Green+Finance+%7C+Carbon+Markets;M.S.+Data+Analytics+%7C+Kerala%2C+India" alt="Typing SVG" />
 
-<p>
-  <a href="https://www.linkedin.com/in/anson-joseph-7861a8305/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/AnsonJo96106714"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://github.com/ansonj-dev"><img src="https://img.shields.io/badge/GitHub-Explore-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anson-joseph-7861a8305/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnsonJo96106714)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ansonjoseph)
+[![Research](https://img.shields.io/badge/Research.out-FF6B35?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/research.out)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ansonj-dev&color=ff4b4b&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/ansonj-dev?color=00e676&style=flat-square&logo=github)
 
 </div>
 
 ---
 
-## 🌱 About Me
+## 🛰️ About Me
 
-I'm a postgraduate **Data Analytics** student from Kerala, India, interested in using data, software, and AI to explore practical challenges. My interests include **climate intelligence, sustainability, environmental data, civic technology, and AI-powered tools**.
+```python
+class AnsonJoseph:
+    username      = "ansonj-dev"
+    location      = "Kottayam, Kerala, India 🌴"
+    education     = "M.S. Data Analytics"
+    bio           = "Turning data into planetary-scale impact"
 
-I enjoy moving from an idea to a working prototype—researching the problem, exploring data, building, testing, and documenting what I learn.
+    currently     = [
+        "QUASAR   — NASA-winning multi-hazard climate AI platform",
+        "GrYEN    — India-first green finance intelligence system",
+        "HEMINSEN — Decentralized health for 1.2B underserved",
+        "FINSCI   — Decentralized sustainability crowdfunding"
+    ]
 
-## 🧭 What I Explore
+    stack         = {
+        "AI/ML"   : ["TFT", "Random Forest", "Gemini Vision", "FastAPI", "Celery"],
+        "Web3"    : ["Base Chain", "Solidity", "Blockchain", "PWA", "Canvas API"],
+        "Frontend": ["Vue", "React", "HTML/CSS", "TypeScript", "JavaScript"],
+        "Data"    : ["Python", "PostgreSQL", "Supabase", "Docker"],
+        "Deploy"  : ["Vercel", "Railway", "GitHub Actions"]
+    }
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌍 Climate & Sustainability</h3>
-      Environmental data, climate-risk analysis, carbon insights, and tools that support informed decisions.
-    </td>
-    <td width="50%">
-      <h3>🤖 AI & Data Analytics</h3>
-      Applied machine learning, data visualization, forecasting, and AI-assisted workflows.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌾 Community & Agriculture</h3>
-      Localized information systems and technology concepts for environmental and community needs.
-    </td>
-    <td width="50%">
-      <h3>🔗 Emerging Technology</h3>
-      Exploring blockchain, decentralized applications, and new ways to build transparent systems.
-    </td>
-  </tr>
-</table>
+    interests     = ["Climate AI", "Carbon Markets", "Green Finance",
+                     "Civic Tech", "DeFi", "AgriTech", "Space Tech"]
+
+    achievements  = [
+        "🏆 NASA Space Apps Challenge Winner — QUASAR",
+        "🥈 NASA Space Apps 2nd Place — Climate Guardian",
+        "🌍 Building tools for underserved communities at scale"
+    ]
+
+    fun_fact      = "I ship full brand identities before writing line one of code."
+```
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| 🛰️ [QUASAR](https://github.com/ansonj-dev/QUASAR) | 💚 [GrYEN](https://github.com/ansonj-dev/GrYEN) | 🏥 [HEMINSEN](https://github.com/ansonj-dev/HEMINSEN) |
+|:---:|:---:|:---:|
+| **NASA Space Apps Winner** | **India-First Green Finance AI** | **Decentralized Health Network** |
+| Living planetary nervous system — real-time multi-hazard AI early-warning platform | Unified personal finance + carbon footprint + AI life decisions | Blockchain-verified healthcare for 1.2 billion underserved people |
+| `Python` · `TFT` · `25+ APIs` | `Vue` · `AI` · `Carbon Tracking` | `JavaScript` · `Blockchain` · `PWA` |
+
+| 🌱 [FINSCI](https://github.com/ansonj-dev/Finsci) | 📚 [VAATHIL](https://github.com/ansonj-dev/VAATHIL) |
+|:---:|:---:|
+| **Decentralized Sustainability Crowdfunding** | **Smart Library Management** |
+| Bridging visionary sustainability projects with conscious global investors | Digital platform streamlining library resource management |
+| `TypeScript` · `DeFi` · `Web3` | `HTML` · `CSS` · `Full Stack` |
+
+</div>
+
+---
+
+## 🌍 Focus Areas
+
+```
+🤖 Climate AI & Prediction Systems      ████████████████████  100%
+🏛️  Civic Tech for Communities          ████████████████████  100%
+🌱 Green Finance & Carbon Markets       ████████████████░░░░   80%
+⛓️  Web3 & Blockchain Applications      ███████████████░░░░░   75%
+🌾 AgriTech & Plant Intelligence        ██████████░░░░░░░░░░   50%
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansonj-dev&theme=dark&background=0d1117&border=0f3460&stroke=0f3460&ring=ff4b4b&fire=ff4b4b&currStreakNum=00e676&sideNums=c9d1d9&currStreakLabel=00e676&sideLabels=c9d1d9&dates=888888" />
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,js,ts,react,vue,nodejs,express,html,css,postgres,mongodb,supabase,git,github,docker,solidity&perline=9" alt="Technology icons"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-166534?style=flat-square" alt="Data analysis"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F59E0B?style=flat-square" alt="Machine learning"/>
-  <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Visualization-Analytics-7C3AED?style=flat-square" alt="Visualization"/>
-</p>
-
-## 🚀 Selected Public Work
-
-I use my repositories to document experiments, prototypes, coursework, and projects. Only **public repositories** are linked here; private projects are intentionally omitted.
-
-- 🌦️ **QUASAR** — climate-risk and early-warning project work.
-- 🌿 **PlantFox** — AI-assisted localized cultivation guidance.
-- 🏙️ **DROUGHT** — civic environmental reporting concept.
-- 🧠 **The Written Entity** — AI-assisted meeting workflow and knowledge tools.
-- 🎮 **NEON REVERIE** — a Decentraland scene and interactive experience.
-
-> Project scope and implementation status vary. Visit each public repository for its current source, documentation, and status.
-
-## 🏅 Highlights
-
-- 🛰️ Local-level runner-up, **NASA Space Apps Challenge 2025**, for a climate-focused project.
-- 🌱 An environmental technology project was shortlisted for university-level incubation consideration.
-
-## 📊 GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansonj-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=0D9488&icon_color=7C3AED&text_color=64748B" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonj-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=0D9488&text_color=64748B" height="165" alt="Top languages"/>
+
+**AI / ML & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend / Web**
+
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Cloud & Deploy**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+
+**Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Base](https://img.shields.io/badge/Base_Chain-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
+
 </div>
 
+---
+
+## 🌐 APIs Powering QUASAR
+
+> *25+ free public APIs integrated into a living planetary early-warning system:*
+
+`NASA TEMPO` · `NASA IMERG` · `NASA MERRA-2` · `NOAA GFS` · `OpenAQ` · `ECMWF` · `Copernicus` · `USGS` · `ESA Sentinel` · `FIRMS` · `GHSL` · `MODIS` · and more
+
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ansonj-dev&hide_border=true&background=00000000&ring=0D9488&fire=7C3AED&currStreakLabel=0D9488" alt="GitHub contribution streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansonj-dev&bg_color=0d1117&color=ff4b4b&line=00e676&point=0f3460&area=true&hide_border=true" width="100%" />
 </div>
 
-## 🤝 Let's Connect
+---
 
-I'm open to learning, collaboration, and opportunities related to **data analytics, AI applications, climate and sustainability technology, and community-focused software**.
+## 🎯 What I'm Working Toward
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anson-joseph-7861a8305/">LinkedIn</a> ·
-  <a href="https://x.com/AnsonJo96106714">X</a> ·
-  <a href="https://github.com/ansonj-dev">GitHub</a>
-</p>
+- [ ] 🛰️ Deploy QUASAR as a production climate intelligence SaaS
+- [ ] 💚 Launch GrYEN as India's first green finance AI platform
+- [ ] 📄 Publish blockchain × carbon markets research paper
+- [ ] 🏅 Win more international hackathons
+- [ ] 🌍 Secure green finance internship in Europe / Asia
+- [ ] 🚀 Scale HEMINSEN for real community deployment
+
+---
+
+## 💬 Quote I Build By
+
+> *"The best time to build climate tools was 10 years ago. The second best time is now — with AI."*
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F766E&height=100&section=footer" width="100%" alt="Decorative footer banner"/>
+
+**Let's connect and build something that matters 🌍**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anson-joseph-7861a8305/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:ff4b4b,100:0f3460&height=120&section=footer" width="100%" />
+
 </div>
